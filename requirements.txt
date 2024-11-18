@@ -1,0 +1,17 @@
+sentence-transformers
+transformers
+einops
+accelerate
+pypdf
+tiktoken
+unstructured
+chromadb
+google-generativeai
+langchain-google-genai
+pdfkit
+gradio
+langchain-chroma
+crewai==0.28.8
+crewai_tools==0.1.6
+langchain_community==0.0.29
+
